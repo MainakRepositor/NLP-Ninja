@@ -13,12 +13,13 @@
 | 4 | [Bagofwords](https://github.com/MainakRepositor/NLP-Guideline/blob/master/BagOfWords.py) | 💛 |
 | 5 | [TI-FDF]() | 💛 |
 | 6 | [Text-processing]() | 🧡 |
-| 7 | [RNN]() | 💚 |
-| 8 | [LSTM]() | 💚 |
-| 9 | [GRU]() | 💚 |
-| 10 | [Word Embedding]() | 💙 |
-| 11 | [Bidirectional LSTM]() | 💙 |
-| 12 | [Encoder and Decoder]() | 💜 |
-| 13 | [Attention Model]() | 💜
-| 14 | [Transformers]() | 🤎 |
-| 15 | [BERT]() | 🖤 |
+| 7 | [Word2vec]() | 🧡 |
+| 8 | [RNN]() | 💚 |
+| 9 | [LSTM]() | 💚 |
+| 10 | [GRU]() | 💚 |
+| 11 | [Word Embedding]() | 💙 |
+| 12 | [Bidirectional LSTM]() | 💙 |
+| 13 | [Encoder and Decoder]() | 💜 |
+| 14 | [Attention Model]() | 💜
+| 15 | [Transformers]() | 🤎 |
+| 16 | [BERT]() | 🖤 |
