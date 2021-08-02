@@ -11,7 +11,7 @@
 | 2 | [Stemming](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Stemming.py) | 🤍 | Beginner |
 | 3 | [Lemmatization](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Lemmatization.py) | 🤍 | Beginner |
 | 4 | [Bagofwords](https://github.com/MainakRepositor/NLP-Guideline/blob/master/BagOfWords.py) | 💛 | Novice |
-| 5 | [TI-FDF]() | 💛 | Novice |
+| 5 | [TF-IDF]() | 💛 | Novice |
 | 6 | [Text-processing]() | 🧡 | Learner |
 | 7 | [Word2vec]() | 🧡 | Learner |
 | 8 | [RNN]() | 💚 | Intermediate |
