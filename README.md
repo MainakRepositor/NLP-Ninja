@@ -5,33 +5,23 @@
 
 
 ## Table of Contents
-| S.No. |  Topic |  Level  |
-|-------|--------|---------|
-| 1 | [Tokenization](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Tokenization.py) | 🤍 |
-| 2 | [Stemming](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Stemming.py) | 🤍 |
-| 3 | [Lemmatization](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Lemmatization.py) | 🤍 |
-| 4 | [Bagofwords](https://github.com/MainakRepositor/NLP-Guideline/blob/master/BagOfWords.py) | 💛 |
-| 5 | [TI-FDF]() | 💛 |
-| 6 | [Text-processing]() | 🧡 |
-| 7 | [Word2vec]() | 🧡 |
-| 8 | [RNN]() | 💚 |
-| 9 | [LSTM]() | 💚 |
-| 10 | [GRU]() | 💚 |
-| 11 | [Word Embedding]() | 💙 |
-| 12 | [Bidirectional LSTM]() | 💙 |
-| 13 | [Encoder and Decoder]() | 💙 |
-| 14 | [Attention Model]() | ❤ |
-| 15 | [Transformers]() | ❤ |
-| 16 | [BERT]() | 🖤 |
+| S.No. |  Topic |  Level  | Meaning |
+|-------|--------|---------|---------|
+| 1 | [Tokenization](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Tokenization.py) | 🤍 | Beginner |
+| 2 | [Stemming](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Stemming.py) | 🤍 | Beginner |
+| 3 | [Lemmatization](https://github.com/MainakRepositor/NLP-Guideline/blob/master/Lemmatization.py) | 🤍 | Beginner |
+| 4 | [Bagofwords](https://github.com/MainakRepositor/NLP-Guideline/blob/master/BagOfWords.py) | 💛 | Novice |
+| 5 | [TI-FDF]() | 💛 | Novice |
+| 6 | [Text-processing]() | 🧡 | Learner |
+| 7 | [Word2vec]() | 🧡 | Learner |
+| 8 | [RNN]() | 💚 | Intermediate |
+| 9 | [LSTM]() | 💚 | Intermediate |
+| 10 | [GRU]() | 💚 | Intermediate |
+| 11 | [Word Embedding]() | 💙 | Pro |
+| 12 | [Bidirectional LSTM]() | 💙 | Pro |
+| 13 | [Encoder and Decoder]() | 💙 | Pro |
+| 14 | [Attention Model]() | ❤ | Master |
+| 15 | [Transformers]() | ❤ | Master |
+| 16 | [BERT]() | 🖤 | Legend |
 
 
-### Legends:
-| Heart | Meaning |
-|-------|---------|
-| 🤍 | Beginner (White Belt) |
-| 💛 | Novice (Yellow Belt) |
-| 🧡 | Learning (Orange Belt) |
-| 💚 | Intermediate (Green Belt) |
-| 💙 | Expert (Blue Belt) |
-| ❤  | Pro (Red Belt) |
-| 🖤 | Master (Black Belt) |
