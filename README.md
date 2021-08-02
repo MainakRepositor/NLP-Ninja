@@ -23,3 +23,15 @@
 | 14 | [Attention Model]() | ❤ |
 | 15 | [Transformers]() | ❤ |
 | 16 | [BERT]() | 🖤 |
+
+
+### Legends:
+| Heart | Meaning |
+|-------|---------|
+| 🤍 | Beginner (White Belt) |
+| 💛 | Novice (Yellow Belt) |
+| 🧡 | Learning (Orange Belt) |
+| 💚 | Intermediate (Green Belt) |
+| 💙 | Expert (Blue Belt) |
+| ❤  | Pro (Red Belt) |
+| 🖤 | Master (Black Belt) |
