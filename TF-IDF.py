@@ -1,3 +1,5 @@
+### Terms Frequency and Inverse Document Frequency (TF*IDF)
+
 #Importing the libraries
 import nltk
 import re
