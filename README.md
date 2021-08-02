@@ -19,7 +19,7 @@
 | 10 | [GRU]() | 💚 |
 | 11 | [Word Embedding]() | 💙 |
 | 12 | [Bidirectional LSTM]() | 💙 |
-| 13 | [Encoder and Decoder]() | 💜 |
-| 14 | [Attention Model]() | 💜
-| 15 | [Transformers]() | 🤎 |
+| 13 | [Encoder and Decoder]() | 💙 |
+| 14 | [Attention Model]() | ❤ |
+| 15 | [Transformers]() | ❤ |
 | 16 | [BERT]() | 🖤 |
