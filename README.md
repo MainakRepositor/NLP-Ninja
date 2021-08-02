@@ -1,4 +1,4 @@
-# NLP-Guideline
+# NLP-NINJA
 ### A complete guide for Natural Language Processing in Python
 
 ![nlp](https://user-images.githubusercontent.com/64016811/127821282-a9efe2f9-95b0-4974-b9dc-7df55f06044e.png)
