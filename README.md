@@ -13,7 +13,7 @@
 | 4 | [Bagofwords](https://github.com/MainakRepositor/NLP-Guideline/blob/master/BagOfWords.py) | 💛 | Novice |
 | 5 | [TF-IDF](https://github.com/MainakRepositor/NLP-Ninja/blob/master/TF-IDF.py) | 💛 | Novice |
 | 6 | [Text-processing]() | 🧡 | Learner |
-| 7 | [Word2vec]() | 🧡 | Learner |
+| 7 | [Word2vec](https://github.com/MainakRepositor/NLP-Ninja/blob/master/Word2Vec.py) | 🧡 | Learner |
 | 8 | [RNN]() | 💚 | Intermediate |
 | 9 | [LSTM]() | 💚 | Intermediate |
 | 10 | [GRU]() | 💚 | Intermediate |
